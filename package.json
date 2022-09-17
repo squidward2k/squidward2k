@@ -1,14 +1,14 @@
 {
-  "name": "raganork-md", 
+  "name": "squidward-md", 
   "version": "3.0.1",
-  "description": "Raganork whatsapp bot- Multi device version.",
-  "main": "./Raganork/index.js",
+  "description": "SquidWard whatsapp bot- Multi device version.",
+  "main": "./squidward2k/index.js",
   "scripts": {
     "start": "supervisor -s index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/souravkl11/raganork-md.git"
+    "url": "git+https://github.com/squidward2k/squidward2k.git"
   },
   "keywords": [
     "whatsapp",
@@ -18,7 +18,7 @@
   "author": "Sourav",
   "developer": "@souravkl11",
   "license": "GPL-3.0-or-later",
-  "homepage": "https://github.com/souravkl11/raganork#readme",
+  "homepage": "https://github.com/squidward2k/squidward2k#readme",
   "dependencies": {
     "@adiwajshing/baileys": "git+https://github.com/souravkl11/Baileys.git",
     "@adiwajshing/keyed-db":"0.2.4",
